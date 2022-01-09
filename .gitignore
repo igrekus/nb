@@ -155,27 +155,13 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-\.idea/zbaviewer\.iml
-
 \.idea/
-
-venv1/
 
 venv/
 
-cutoff_delta\.xlsx
-
-cutoff_freq\.xlsx
-
-plots\.png
-
-data1/
-
-data2/
+*data*
 
 ref/
 
 *.xlsx
 pic/
-
-solutions/
